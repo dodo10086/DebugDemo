@@ -27,6 +27,7 @@ public class DebugTest {
         System.out.println(map);
         System.out.println("更新项目");
 
+        System.out.println("更新项目2");
     }
 
 
