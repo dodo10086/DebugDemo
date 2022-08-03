@@ -25,7 +25,7 @@ public class DebugTest {
 
         map.remove("major");
         System.out.println(map);
-
+        System.out.println("更新项目");
 
     }
 
